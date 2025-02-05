@@ -1,5 +1,5 @@
 #                                       Object Detection
-![alt text](<Screenshot (256).png>)
+![alt text](<Home.png>)
 
 ## Installation
 1. **Clone the repository:**  
